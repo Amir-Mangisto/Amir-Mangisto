@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-**Amir-Mangisto/Amir-Mangisto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!-- **Amir-Mangisto/Amir-Mangisto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ -->
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -11,17 +11,18 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ... -->
+- 😄 Pronouns: ... 
 - ⚡ Full Stack Developer
+-->
 
 
 <h1 align="center">
   <b>Amir Mangisto</b>
 </h1>
-
+<!-- 
 Heya! I'm Abhigyan Tripathi, a student currently living in Mumbai, India. I'm preparing for 
 <a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
-and learning programming through small projects  on the side.
+and learning programming through small projects  on the side. -->
 
 <br>
 
