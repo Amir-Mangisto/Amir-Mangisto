@@ -21,7 +21,7 @@
 </h1>
 Heya! I'm Amir Mangisto, a Full-Stack Developer. currently working om small projects 
 <!-- <a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>,  -->
-and learning programming through larg scalable projects  on the side. 
+and learning programming through large scalable projects  on the side. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
