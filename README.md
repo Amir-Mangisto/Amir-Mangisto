@@ -19,10 +19,24 @@
 <h1 align="center">
   <b>Amir Mangisto</b>
 </h1>
-<!-- 
-Heya! I'm Abhigyan Tripathi, a student currently living in Mumbai, India. I'm preparing for 
-<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
-and learning programming through small projects  on the side. -->
+Heya! I'm Amir Mangisto, a Full-Stack Developer. currently working om small projects 
+<!-- <a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>,  -->
+and learning programming through larg scalable projects  on the side. 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/amir-mangisto-03a19a226/" target="blank" rel="noreferrer">
+    <img align="center"
+      src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_black-512.png"
+      alt="adam pithewan" height="60" width="70" /></a>
+  <a href="mailto:mangisto.man@gmail.com" target="blank" rel="noreferrer">
+    <img align="center"
+      src="https://cdn-icons-png.flaticon.com/512/561/561127.png?w=360"
+      alt="adam pithen wala" height="60" width="60" /></a>
+</p>
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 
