@@ -23,7 +23,7 @@ Heya! I'm Amir Mangisto, a Full-Stack Developer. currently working om small proj
 <!-- <a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>,  -->
 and learning programming through large scalable projects  on the side. 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/amir-mangisto-03a19a226/" target="blank" rel="noreferrer">
     <img align="center"
